@@ -1,5 +1,6 @@
 # tedescovinicius.io
-my personal web 
 Nome: Vinicius Luís Tedesco
-\n Idade: 19 anos
-/n https://github.com/academicpages/academicpages.github.io.git
+Idade: 19 anos 
+Caro professor, não consegui realizar a atividade conforme o senhor pediu.
+Caso o senhor consiga me auxiliar, e passar mais informaçes como é feito o processo agradeço.
+
